@@ -1,0 +1,58 @@
+ #name{
+    font-family: Georgia;
+    font-size: 40px;
+    text-emphasis: underline;
+    color: lightblue;
+    opacity: 0.8;
+ }
+ .about{
+    font-family: sans-serif;
+ }
+ h2{
+   color: gray;
+ }
+ li:hover{
+   color: gray;
+ }
+table, th, td{
+   font-family: verdana;
+   border: 1px solid;
+   text-align: left;
+   padding: 10px 10px 10px 10px;
+ }
+nav {
+  background-color: lightblue;
+}
+body {
+  background-color: white;
+}
+h1 {
+  background-color: tomato;
+  color: white;
+  text-align: center;
+}
+p1 {
+  font-family: verdana;
+  font-size: 20px;
+}
+p2 {
+  font-size: 18px;
+  text-align: center;
+}
+p3{
+  color: gray;
+}
+button{
+  background-color: tomato;
+  color: White;
+  border : none;
+  font-size: 18px
+}
+cite{
+  background: lightgreen;
+}
+h4{
+  color: lightgray;
+  text-align: right;
+  font-size: 12px;
+}
